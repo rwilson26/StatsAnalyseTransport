@@ -3,7 +3,6 @@
 # Date: 29 Décembre 2025
 
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 
 zones_dict = {
